@@ -1,0 +1,16 @@
+body {
+    
+}
+
+button {
+    background-color: rgb(57, 218, 92);
+    color: red;
+}
+
+.calculator {
+    background-color: black;
+}
+
+.buttons {
+    display: flex;
+}
