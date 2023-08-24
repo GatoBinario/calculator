@@ -1,5 +1,4 @@
 body {
-    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
     font-weight: 1000px;
@@ -10,9 +9,19 @@ button {
     height: 40px;
     margin: 2px;
 
-    background-color: rgb(59, 161, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    background-color: #212830;
     color: rgb(255, 255, 255);
     border: 0px solid rgb(79, 156, 133);
+}
+
+.op {
+    color: #e94a4f;
+}
+
+.number {
+    color: #ffffff;
 }
 
 .calculator {
@@ -25,7 +34,7 @@ button {
     justify-content: center;
     align-items: center;
     
-    background-color: rgb(65, 109, 98);
+    background-color: #3f4653;
 }
 
 .container {
@@ -40,7 +49,7 @@ button {
     width: 180px;
 
     margin: 2px;
-    font-size: 32px;
+    font-size: 16px;
     color: white;
-    background-color: rgb(100, 146, 140);
+    background-color: #67717c;
 }
